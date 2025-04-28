@@ -17,7 +17,6 @@ Vous apprendrez à utiliser **Google NotebookLM** pour réaliser efficacement vo
 
 | Module | Description | Lien |
 |:------|:------------|:----|
-| 📑 0. Sommaire du Workshop | Présentation générale du contenu et de l'organisation | [0.SommaireDuWorkshop.md](/0.SommaireDuWorkshop.md) |
 | 📚 Google NotebookLM | Introduction, fonctionnalités principales et prise en main de NotebookLM | [GoogleNotebooklm.md](/1.GoogleNotebooklm.md) |
 | 🛠️ Rédiger une Seminararbeit avec NotebookLM | Guide complet pour utiliser NotebookLM étape par étape dans un projet académique | [rediger_seminararbeit_avec_notebooklm.md](/2.rediger_seminararbeit_avec_notebooklm.md) |
 
