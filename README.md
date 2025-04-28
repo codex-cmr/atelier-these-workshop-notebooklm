@@ -3,6 +3,8 @@
 Bienvenue dans ce workshop pratique !  
 Vous apprendrez à utiliser **Google NotebookLM** pour réaliser efficacement vos travaux académiques (Seminararbeit, Projet, Bachelorarbeit...).
 
+**SVP LAISSEZ UNE ETOILE ⭐ POUR SOUTENIR**
+
 ---
 
 ## 🎥 Vidéo du Workshop
