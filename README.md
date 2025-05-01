@@ -12,6 +12,10 @@ Vous apprendrez à utiliser **Google NotebookLM** pour réaliser efficacement vo
 👉 [Voir la vidéo complète sur YouTube](https://youtu.be/CIfsB_EYsVI?si=xHcELn8B7fx4M0LY)
 
 ---
+##  Slide du Workshop
+👉 [Slides](https://drive.google.com/uc?export=download&id=1310hIFvgu36P-JrPE9gWmiVCMHTIRO7f)
+
+---
 
 ## 🧩 Structure du dépôt
 
